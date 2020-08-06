@@ -6,7 +6,11 @@ allow the code to be used outside Wipro in any form. Only the basic working deta
 project are allowed to be presented. Click [here](College%20Letter%20Mr.%20Anant%20Shanbhag.pdf) to view the certificate.
 
 
+This is a Proof of Concept (POC) where video streaming application is developed using Python stack and
+ Videogular framework. Implemented Microservices architecture by distributing individual 
+ services across containers.
 
+All below images are miniature version of the application. 
 ### Subscriber functionalities
 Sign-Up page for Subscribers
 
