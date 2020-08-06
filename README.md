@@ -3,7 +3,7 @@
 This is a Video On Demand digital marketplace developed in collaboration with Wipro Technologies Ltd.
 The project information is proprietary, privileged, and confidential. Wipro policies don’t
 allow the code to be used outside Wipro in any form. Only the basic working details of the
-project are allowed to be presented. Click [here](College%20Letter%20Mr.%20Anant%20Shanbhag.pdf) to view the certificate.
+project are allowed to be presented. Click [here](LimitedDisclosure.pdf) to view limited disclosure agreement.
 
 
 This is a Proof of Concept (POC) where video streaming application is developed using Python stack and
